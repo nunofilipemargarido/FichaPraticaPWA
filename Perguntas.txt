@@ -2,6 +2,7 @@
 	O commit grava as alterações que fizemos no repositorio onde trabalhamos, Push faz as alterações que alteramos no Repositorio local
 	serem enviadas para o repositorio remoto, e POP é usado em staches para colocar as alterações guardadas no branch local de trabalho.
 2 – Quais sáo as vantagens de usar Branchs num repositório git?
+    A grande vantagem é a capacidade de trabalho coloborativo entre desenvolvimento, trabalhar em funcionalidades diferentes etc. 
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em 
 que consistem e como podem ser resolvidos esses conflitos?
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as 
