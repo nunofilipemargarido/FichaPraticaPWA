@@ -5,5 +5,7 @@
     A grande vantagem é a capacidade de trabalho coloborativo entre desenvolvimento, trabalhar em funcionalidades diferentes etc. 
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em 
 que consistem e como podem ser resolvidos esses conflitos?
+	O commando stash pop coloca um stash no branch currente apagando o stach da pilha de staches, existem conflitos quando alterações foram feitas na arvore de trabalho que não estão no 
+	no codigo do dtach, assim sendo há uma falha do pop e temos que resolver os conflitos manualmente e depois usar o DROP
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as 
 diferenças entre eles?
