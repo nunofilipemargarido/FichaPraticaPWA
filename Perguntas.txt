@@ -9,3 +9,5 @@ que consistem e como podem ser resolvidos esses conflitos?
 	no codigo do dtach, assim sendo há uma falha do pop e temos que resolver os conflitos manualmente e depois usar o DROP
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as 
 diferenças entre eles?
+     O clone permite copira o repositorio na maquina local, enquanto o fork duplica o codigo para ser completamente 
+	 independente do codigo original.
